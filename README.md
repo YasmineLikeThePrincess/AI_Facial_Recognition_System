@@ -1,4 +1,5 @@
 # AI Facial Recognition System
+![image](https://github.com/user-attachments/assets/6bf9d517-2bdd-4c99-8c2c-14168df43374)
 
 I'm a student in Matser Degree Data & AI applied to buisness in Paris, and I am very interesting about Data Science.
 
