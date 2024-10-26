@@ -3,7 +3,7 @@
 
 I'm a student in Matser Degree Data & AI applied to buisness in Paris, and I am very interesting about Data Science.
 
-For train my self on Data Science project, we imagine with my matter Hoda Dades, a system of attendance based on facial recognition. 
+For train my self on Data Science project, we imagine with my colleague Hoda Dades, a system of attendance based on facial recognition. 
 It's my first project in Data Science or Machine Learning, so it's pretty basic but I have learned a lot and it's takes a lot of hours. Whenever it was first a lot of pleasure. 
 
 # The process
