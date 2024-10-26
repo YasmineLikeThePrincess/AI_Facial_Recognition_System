@@ -17,7 +17,7 @@ If it's True, that's mean that the result of the modal is less than 1 and it's a
 
 We made something very simple with html code and run it in local with the XAAMP server. 
 
-# To be continuing 
+# To be continued
 
 It's my first project so there is so much things to improve, like I didn't succes to connect directly the html code and the python code. So I would like to have some advice for improve 
 this project.
